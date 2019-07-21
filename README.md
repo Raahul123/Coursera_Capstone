@@ -4,7 +4,7 @@
 
 ## 1) Introduction/Business Problem
 
-Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+### Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
 
 Through my study, I want to be able to help people open up restaurants in popular places around Toronto, Canada. Using this data, people will be able to know what's around them as well as where the optimal place to set up their spot would be in order to attract the most amount of customers and revenue. 
 
